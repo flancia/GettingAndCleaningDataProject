@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 README file
 run_analysis.R script
 Project
@@ -125,3 +126,7 @@ Finally, write.table(df, "./tidy_data_frame.txt", row.names=FALSE)
 
 
 
+=======
+# GettingAndCleaningDataProject
+Getting and Cleaning Data Project: Tidy Data Set: 1/25/15
+>>>>>>> 9c30f6f9d53c52ca19d53f657c9a75942dba5ed2
